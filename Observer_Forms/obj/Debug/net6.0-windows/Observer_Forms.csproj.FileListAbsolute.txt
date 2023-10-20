@@ -1,0 +1,16 @@
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\obj\Debug\net6.0-windows\Observer_Forms.Form1.resources
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\obj\Debug\net6.0-windows\Observer_Forms.csproj.GenerateResource.cache
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\obj\Debug\net6.0-windows\Observer_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\obj\Debug\net6.0-windows\Observer_Forms.AssemblyInfoInputs.cache
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\obj\Debug\net6.0-windows\Observer_Forms.AssemblyInfo.cs
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\obj\Debug\net6.0-windows\Observer_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\bin\Debug\net6.0-windows\Observer_Forms.exe
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\bin\Debug\net6.0-windows\Observer_Forms.deps.json
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\bin\Debug\net6.0-windows\Observer_Forms.runtimeconfig.json
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\bin\Debug\net6.0-windows\Observer_Forms.dll
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\bin\Debug\net6.0-windows\Observer_Forms.pdb
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\obj\Debug\net6.0-windows\Observer_Forms.dll
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\obj\Debug\net6.0-windows\refint\Observer_Forms.dll
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\obj\Debug\net6.0-windows\Observer_Forms.pdb
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\obj\Debug\net6.0-windows\Observer_Forms.genruntimeconfig.cache
+C:\Users\Dominik\source\repos\Observer_Forms\Observer_Forms\obj\Debug\net6.0-windows\ref\Observer_Forms.dll
